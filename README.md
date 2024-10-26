@@ -1,6 +1,3 @@
-Based on the information in the PDF you provided, here’s a README file for the project "Consolidated Plant Disease System Using CNN":
-
----
 
 # Consolidated Plant Disease Detection System Using CNN
 
@@ -101,3 +98,4 @@ This plant disease detection system, powered by CNN, represents a valuable tool 
 ---
 
 This README file provides a comprehensive overview of the project and can be further customized to include specific usage instructions if needed. Let me know if you want to add any additional details!
+CONTACT: rohithsr1710@gmail.com
