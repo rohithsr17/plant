@@ -1,0 +1,6 @@
+pip=>21.3.1
+django~=3.2.9
+mysqlclient
+tensorflow
+bs4
+pillow
